@@ -1,0 +1,8 @@
+# Mengabaikan file hasil compile
+*.o
+*.out
+*.exe
+
+# Mengabaikan folder bin atau build jika ada
+build/
+bin/
