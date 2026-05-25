@@ -1,0 +1,15 @@
+apple
+application
+bandung
+computer
+data
+hash
+indonesia
+java
+kampus
+laptop
+network
+program
+queue
+stack
+tree
